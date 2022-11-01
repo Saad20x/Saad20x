@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine learning, deep learning & NLP
 - 🌱 I'm currently learning from Coursera and Kaggle.
 - 🤝🏻 I'm open for collaborations in Data Science and Machine Learning domains.
-
+- 📌 Scroll down to see my Pinned Repositories.
 
 
 
