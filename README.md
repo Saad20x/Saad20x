@@ -5,6 +5,8 @@
 - 📌 Scroll down to see my Pinned Repositories.
 
 
+Connect me on:
+LinkedIn: https://www.linkedin.com/in/saad20x/
 
 
 
